@@ -4,4 +4,4 @@ Trabalho final para disciplina de Computação Gráfica da Universidade do Estad
 Para rodar o jogo:
 
 1) Necessário ter instalado na máquina Python 3.9.
-2) Necessário baixar os dois módulos PyOpenGL presentes nos arquivos.
+2) Necessário baixar os dois módulos do PyOpenGL presentes nos arquivos.
